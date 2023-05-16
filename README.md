@@ -1,2 +1,3 @@
 # Bellabeats-Capstone
-CAPSTONE PROJECT FOR THE GOOGLE ANALYTICS CERTIFICATE THROUGH COURSERA. 
+SQL Query --> Fitbit_User_Analysis file
+Presentation --> Tableau (link)
